@@ -1,0 +1,11 @@
+return 
+{
+	renderStates = 
+	{
+		alphaTransparency = true,
+		depthBuffering = false,
+		drawBothTriangleSides = true,
+	},
+	vertex = "Shaders/sprite.shader",
+	fragment = "Shaders/fragment.shader",
+}

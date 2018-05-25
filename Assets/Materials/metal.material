@@ -1,0 +1,9 @@
+return
+{
+	ConstantData =
+	{
+		g_color = {1, 1, 1, 1},
+	},
+	effectPath = "Effects/Effect1.effect",
+	texturePath = "Textures/metal.png",
+}

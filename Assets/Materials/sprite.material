@@ -1,0 +1,9 @@
+return
+{
+	ConstantData =
+	{
+		g_color = {1, 1, 1, 1},
+	},
+	effectPath = "Effects/sprite.effect",
+	texturePath = "Textures/font.png",
+}

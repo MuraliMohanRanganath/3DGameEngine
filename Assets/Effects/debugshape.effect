@@ -1,0 +1,12 @@
+return 
+{
+	renderStates = 
+	{
+		alphaTransparency = false,
+		depthBuffering = true,
+		drawBothTriangleSides = true,
+		wireFrame = true,
+	},
+	vertex = "Shaders/vertex.shader",
+	fragment = "Shaders/fragment.shader",
+}

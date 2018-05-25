@@ -1,0 +1,8 @@
+return
+{
+	ConstantData =
+	{
+		g_color = {1, 0.38, 0.28, 1},
+	},
+	effectPath = "Effects/Effect1.effect",
+}
